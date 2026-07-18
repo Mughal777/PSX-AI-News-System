@@ -1,0 +1,8 @@
+feedparser
+requests
+vaderSentiment
+deep-translator
+beautifulsoup4
+yfinance
+flask
+win11toast; platform_system == "Windows"

@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local cache / runtime data (auto-generated, no need to commit)
+cache/images/*
+!cache/images/.gitkeep
+last_signal.json
+
+# Editor/OS junk
+.vscode/
+.DS_Store
+Thumbs.db
